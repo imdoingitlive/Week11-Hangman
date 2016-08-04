@@ -1,0 +1,25 @@
+{
+  "name": "Week11-Hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^1.1.2",
+    "randword": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imdoingitlive/Week11-Hangman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imdoingitlive/Week11-Hangman/issues"
+  },
+  "homepage": "https://github.com/imdoingitlive/Week11-Hangman#readme"
+}
